@@ -5,6 +5,6 @@ https://camo.githubusercontent.com/9de3a0e52bb32397d435c3cd0396f81235fba55ec7bcc
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yrrho2)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yrrho2)](https://solved.ac/yrrho2/)
 
-![로고명](https://img.shields.io/badge/C-007396.svg?&style=for-the-badge&logo=C&logoColor=White)
-![로고명](https://img.shields.io/badge/C++-007396.svg?&style=for-the-badge&logo=C++&logoColor=White)
+![로고명](https://img.shields.io/badge/C-007396.svg?&style=for-the-badge&logo=C&logoColor=black)
+![로고명](https://img.shields.io/badge/Cpp-007396.svg?&style=for-the-badge&logo=C++&logoColor=gray)
 ![로고명](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=White)
