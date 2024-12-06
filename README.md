@@ -8,5 +8,5 @@
 ![로고명](https://img.shields.io/badge/C-007396.svg?&style=for-the-badge&logoColor=black)
 ![로고명](https://img.shields.io/badge/Cpp-007396.svg?&style=for-the-badge&logo=C++&logoColor=gray)
 ![로고명](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=White)
-![로고명](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=FLUTTER&logoColor=White)
+![로고명](https://img.shields.io/badge/FLUTTER-007396.svg?&style=for-the-badge&logo=FLUTTER&logoColor=White)
 
